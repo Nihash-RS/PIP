@@ -2,8 +2,8 @@
 name ="Nihash"
 age="20"
 isCorrect="True"
-
-print(f"{name} - {age} - {isCorrect}")
+proffesion="Student"
+print(f"{name} - {age} - {isCorrect}-{proffesion}")
 
 #Operators
 #Arthemetic,Comparision,Logicall,Assignment 
